@@ -4,6 +4,7 @@ MANIFEST.SKIP
 Makefile.PL
 wallflower.php
 license.php
+readme.txt
 README
 lib/WordPress/Plugin/WallFlower.pm
 t/00-load.t
